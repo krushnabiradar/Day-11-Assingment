@@ -1,9 +1,9 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     box-sizing: border-box;
-    color:#bb001f;
+    color:#f80303;
     text-align: center;
-    background-color: rgb(247, 243, 188);
+    background-color: rgb(35, 224, 61);
 }
 
 input[type=text],textarea{
@@ -17,7 +17,7 @@ input[type=text],textarea{
   }
 
   input[type=submit]{
-    background-color: #3650e7;
+    background-color: #f50303;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -26,7 +26,7 @@ input[type=text],textarea{
   }
 
   input[type=submit]:hover{
-    background-color: #aa1c34;
+    background-color: #0be4f3;
   }
 
   .container{
